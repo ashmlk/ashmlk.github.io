@@ -597,28 +597,7 @@ padding-bottom: 200px;
   and (max-device-width: 480px)
   and (-webkit-min-device-pixel-ratio: 2)
   and (orientation: portrait) {
-    h1 {
-      font-size: 1em;
-      line-height: 0.7em;
-    }
-    h2 {
-    font-size: 0.9em;
-    }
-    h3 {
-      font-size: 0.75em;
-      }
-    h4 {
-      font-size: 0.65em;
-      }   
-    p {
-      font-size: 13px;
-    }
-    a {
-      font-size: 0.9em;
-    }
-    th,td {
-      font-size: 1em;
-    }
+ 
 }
 
 /* Landscape */
@@ -627,29 +606,7 @@ padding-bottom: 200px;
   and (max-device-width: 480px)
   and (-webkit-min-device-pixel-ratio: 2)
   and (orientation: landscape) {
-}
-h1 {
-  font-size: 1em;
-  line-height: 0.7em;
-}
-h2 {
-font-size: 0.9em;
-}
-h3 {
-  font-size: 0.75em;
-  }
-h4 {
-  font-size: 0.65em;
-  }   
-p {
-  font-size: 13px;
-}
-a {
-  font-size: 0.9em;
-}
-th,td {
-  font-size: 1em;
-}
+
 }
 
 /* iPhone 5, 5S, 5C and 5SE */
@@ -659,26 +616,7 @@ th,td {
   and (min-device-width: 320px) 
   and (max-device-width: 568px)
   and (-webkit-min-device-pixel-ratio: 2) {
-    h1 {
-      font-size: 1em;
-      line-height: 0.7em;
-    }
-    h2 {
-    font-size: 0.9em;
-    line-height: 0.7em;
-    }
-    h3 {
-      font-size: 0.75em;
-      }
-    h4 {
-      font-size: 0.65em;
-      }   
-    p {
-      font-size: 13px;
-    }
-    a {
-      font-size: 0.9em;
-    }
+   
 }
 
 /* Portrait */
@@ -687,26 +625,7 @@ th,td {
   and (max-device-width: 568px)
   and (-webkit-min-device-pixel-ratio: 2)
   and (orientation: portrait) {
-    h1 {
-      font-size: 1em;
-      line-height: 0.7em;
-    }
-    h2 {
-    font-size: 0.9em;
-    line-height: 0.7em;
-    }
-    h3 {
-      font-size: 0.75em;
-      }
-    h4 {
-      font-size: 0.65em;
-      }   
-    p {
-      font-size: 13px;
-    }
-    a {
-      font-size: 0.9em;
-    }
+   
 }
 
 /* Landscape */
@@ -715,25 +634,7 @@ th,td {
   and (max-device-width: 568px)
   and (-webkit-min-device-pixel-ratio: 2)
   and (orientation: landscape) {
-    h1 {
-      font-size: 1.3em;
-    }
-    h2 {
-    font-size: 1em;
-    }
-    h3 {
-      font-size: 0.75em;
-      }
-    h4 {
-      font-size: 0.65em;
-      }   
-    p {
-      font-size: 13px;
-    }
-    a {
-      font-size: 0.9em;
-    }
-
+   
 }
 
 /* iPhone 6, 6S, 7 and 8 */
@@ -743,24 +644,7 @@ th,td {
   and (min-device-width: 375px) 
   and (max-device-width: 667px) 
   and (-webkit-min-device-pixel-ratio: 2) { 
-    h1 {
-      font-size: 1em;
-    }
-    h2 {
-    font-size: 0.9em;
-    }
-    h3 {
-      font-size: 0.75em;
-      }
-    h4 {
-      font-size: 0.65em;
-      }   
-    p {
-      font-size: 13px;
-    }
-    a {
-      font-size: 0.9em;
-    }
+ 
 }
 
 /* Portrait */
@@ -769,24 +653,7 @@ th,td {
   and (max-device-width: 667px) 
   and (-webkit-min-device-pixel-ratio: 2)
   and (orientation: portrait) { 
-    h1 {
-      font-size: 1em;
-    }
-    h2 {
-    font-size: 0.9em;
-    }
-    h3 {
-      font-size: 0.75em;
-      }
-    h4 {
-      font-size: 0.65em;
-      }   
-    p {
-      font-size: 13px;
-    }
-    a {
-      font-size: 0.9em;
-    }
+
 }
 
 /* Landscape */
@@ -805,21 +672,7 @@ th,td {
   and (min-device-width: 414px) 
   and (max-device-width: 736px) 
   and (-webkit-min-device-pixel-ratio: 3) { 
-    h1 {
-      font-size: 1em;
-    }
-    h2 {
-    font-size: 0.9em;
-    }
-    h3 {
-      font-size: 0.75em;
-      }
-    h4 {
-      font-size: 0.65em;
-      }   
-    p {
-      font-size: 13px;
-    }
+
 }
 
 /* Portrait */
@@ -828,21 +681,6 @@ th,td {
   and (max-device-width: 736px) 
   and (-webkit-min-device-pixel-ratio: 3)
   and (orientation: portrait) { 
-    h1 {
-      font-size: 1em;
-    }
-    h2 {
-    font-size: 0.9em;
-    }
-    h3 {
-      font-size: 0.75em;
-      }
-    h4 {
-      font-size: 0.65em;
-      }   
-    p {
-      font-size: 13px;
-    }
 
 }
 
@@ -862,21 +700,6 @@ th,td {
   and (min-device-width: 375px) 
   and (max-device-width: 812px) 
   and (-webkit-min-device-pixel-ratio: 3) { 
-    h1 {
-      font-size: 1em;
-    }
-    h2 {
-    font-size: 0.9em;
-    }
-    h3 {
-      font-size: 0.75em;
-      }
-    h4 {
-      font-size: 0.65em;
-      }   
-    p {
-      font-size: 13px;
-    }
 
 }
 
@@ -886,21 +709,6 @@ th,td {
   and (max-device-width: 812px) 
   and (-webkit-min-device-pixel-ratio: 3)
   and (orientation: portrait) { 
-    h1 {
-      font-size: 1em;
-    }
-    h2 {
-    font-size: 0.9em;
-    }
-    h3 {
-      font-size: 0.75em;
-      }
-    h4 {
-      font-size: 0.65em;
-      }   
-    p {
-      font-size: 13px;
-    }
 
 }
 
@@ -919,21 +727,6 @@ th,td {
   and (min-device-width: 768px) 
   and (max-device-width: 1024px) 
   and (-webkit-min-device-pixel-ratio: 2) {
-    h1 {
-      font-size: 2em;
-    }
-    h2 {
-    font-size: 1.9em;
-    }
-    h3 {
-      font-size: 1.75em;
-      }
-    h4 {
-      font-size: 1.65em;
-      }   
-    p {
-      font-size: 1.4em;
-    }
 
 }
 
@@ -943,21 +736,7 @@ th,td {
   and (max-device-width: 1024px) 
   and (orientation: portrait) 
   and (-webkit-min-device-pixel-ratio: 2) {
-    h1 {
-      font-size: 2em;
-    }
-    h2 {
-    font-size: 1.9em;
-    }
-    h3 {
-      font-size: 1.75em;
-      }
-    h4 {
-      font-size: 1.65em;
-      }   
-    p {
-      font-size: 1.4em;
-    }
+ 
 }
 
 /* Landscape */
