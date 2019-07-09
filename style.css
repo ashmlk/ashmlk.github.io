@@ -351,7 +351,9 @@ position: relative;
 width: 80%;
 height: 50%;
 margin: auto;
+margin-top: 40px;
 background: linear-gradient(90deg,rgb(248, 247, 247), rgb(255, 255, 255));
+padding-top: 20px;
 }
 
 .subheader_languages {
