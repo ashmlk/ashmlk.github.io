@@ -7,6 +7,7 @@
 body, html {
   height: 100%;
   overflow-x: hidden;
+  font-size: 16px;
 }
 
 #container {
@@ -19,9 +20,9 @@ hr {
   border-width: 80%;
   background-color: rgb(70, 68, 68);
   opacity: 0.75;
-  margin-left: 50px;
-  margin-right: 50px;
-  margin-bottom: 30px;
+  margin-left: 3.125rem;
+  margin-right: 3.125rem;
+  margin-bottom: 1.875rem;
 }
 
 #footer{
@@ -29,10 +30,10 @@ hr {
   background-color: rgb(126, 125, 125);
   bottom: 0;
   vertical-align: center;
-  padding: 5px;
-  height: 65px;
+  padding: 0.3125rem;
+  height: 4.0265rem;
   width: 100%;
-  margin-top: -65px;
+  margin-top: -4.0265rem;
   clear: both;
 }
 
@@ -41,7 +42,7 @@ hr {
   font-size: 0.8em;
   font-weight: 400;
   color: rgb(243, 243, 243);
-  letter-spacing: 1px;
+  letter-spacing: 0.0625rem;
   text-decoration: none;
 }
 
@@ -55,14 +56,14 @@ hr {
   font-size: 0.7em;
   font-weight: 350;
   color: rgb(243, 243, 243);
-  padding-top: 10px;
+  padding-top: 0.625rem;
 }
 
 .footer_nav_bar {
   text-align: center;
   list-style-type: none;
   margin: 0;
-  padding: 5px;
+  padding: 0.3125rem;
 }
 
 .footer_nav_links{
@@ -79,8 +80,8 @@ hr {
   -moz-background-size: cover;
   -webkit-background-size: cover;
   overflow: auto;
-  height: 720px;
-  padding-bottom: 200px; 
+  height: 45rem;
+  padding-bottom: 12.5rem; 
   
 }
 .menu_link{
@@ -91,7 +92,7 @@ hr {
   bottom: 0;
   width:100%;
   height: 100%;
-  text-indent: -9999px;
+  text-indent: -624.9375rem;
   cursor: default;
 }
 
@@ -100,7 +101,7 @@ hr {
   text-transform: uppercase;
   font-size: 2em;
   color: #fff;
-  letter-spacing: 4px;
+  letter-spacing: 0.25rem;
   overflow: hidden;
   font-weight: 400;
   background: linear-gradient(90deg, #000,#fff, #000);
@@ -109,9 +110,9 @@ hr {
   -o-background-size: 80%;
   -moz-background-size: 80%;
   -webkit-background-size: 80%;
-  padding-bottom: 20px;
-  padding-top: 20px;
-  animation: animate 78s linear infinite;
+  padding-bottom: 1.25rem;
+  padding-top: 1.25rem;
+  animation: animate 8s linear infinite;
   -moz-animation: animate 8s linear infinite;
   -ms-animation: animate 8s linear infinite;
   -webkit-animation: animate 8s linear infinite;
@@ -195,8 +196,8 @@ hr {
   -moz-background-size: cover;
   -webkit-background-size: cover;
   overflow: auto;
-  height: 720px;
-  padding-bottom: 200px;
+  height: 45rem;
+  padding-bottom: 12.5rem;
   
 }
 
@@ -221,7 +222,7 @@ hr {
 .quote {
   font-family: 'Montserrat',serif;
   font-size: 1em;
-  letter-spacing: 3px;
+  letter-spacing: 0.1875rem;
   text-transform: uppercase;
   font-weight: 400;
   color: #fff;
@@ -233,7 +234,7 @@ hr {
   font-family: 'Montserrat',serif;
   font-size: 0.8em;
   font-weight: 300;
-  letter-spacing: 2px;
+  letter-spacing: 0.125rem;
   color:#fff;
   text-align: right;
   font-style: italic;
@@ -274,11 +275,11 @@ hr {
   position: relative;
   font-family: 'Quicksand', serif;
   font-size: 2.5em;
-  letter-spacing: 6px;
+  letter-spacing: 0.375rem;
   text-decoration: none;
   color: #fff;
   text-transform: uppercase;
-  padding: 10px 2px 2px;
+  padding: 0.625rem 0.125rem 0.125rem;
   display: inline-block;
 }
 
@@ -286,7 +287,7 @@ hr {
   background: none repeat scroll 0 0 transparent;
   bottom: 0;
   content: "";
-  height: 2px;
+  height: 0.125rem;
   left: 50%;
   position: absolute;
   background: #fff;
@@ -309,15 +310,15 @@ hr {
   -o-background-size: cover;
   -moz-background-size: cover;
   -webkit-background-size: cover;
-  padding-bottom: 200px;
+  padding-bottom: 12.5rem;
   overflow-y: hidden;
 }
 
 #page_title {
   position: relative;
-  padding-bottom: 20px;
+  padding-bottom: 1.25rem;
   width: 100%;
-  height: 300px;
+  height: 18.75rem;
   background: linear-gradient(90deg,rgb(12, 12, 12), rgb(48, 47, 47)); 
   display: inline-block;
   display: flex;
@@ -338,7 +339,7 @@ hr {
   top:50%;
   font-size: 5em;
   font-weight: 400;
-  letter-spacing: 4px;
+  letter-spacing: 0.25rem;
   animation: fade 3s;
   -moz-animation: fade 3s;
   -ms-animation: fade 3s;
@@ -351,9 +352,9 @@ position: relative;
 width: 80%;
 height: 50%;
 margin: auto;
-margin-top: 40px;
+margin-top: 2.5rem;
 background: linear-gradient(90deg,rgb(248, 247, 247), rgb(255, 255, 255));
-padding-top: 20px;
+padding-top: 1.25rem;
 }
 
 .subheader_languages {
@@ -363,7 +364,7 @@ padding-top: 20px;
   color: rgb(34, 34, 34);
   font-size: 3em;
   font-weight: 450;
-  letter-spacing: 2px; 
+  letter-spacing: 0.125rem; 
   top: 37%;
   bottom: 20%;
   right: 70%;
@@ -386,7 +387,7 @@ padding-top: 20px;
  font-size: 2em;
  font-weight: 400;
  color: rgb(34, 34, 34);
- padding: 10px;
+ padding: 0.625rem;
 }
 
 #programming_skills {
@@ -403,10 +404,10 @@ padding-top: 20px;
   text-align: center;
   font-size: 2em;
   font-weight: 450;
-  letter-spacing: 2px;
+  letter-spacing: 0.125rem;
   color: rgb(1, 4, 7);
-  margin:  50px;
-  padding-top: 20px;
+  margin:  3.125rem;
+  padding-top: 1.25rem;
 }
 
 .description {
@@ -415,7 +416,7 @@ padding-top: 20px;
   font-weight: 350;
   line-height: 1.5em;
   color: rgb(70, 71, 73);
-  margin: auto 100px 100px;
+  margin: auto 6.25rem 6.25rem;
   text-decoration: none;
 }
 
@@ -425,7 +426,7 @@ padding-top: 20px;
   height: 70%;
   background-color:rgb(248, 247, 247) ;
   margin: auto;
-  padding-bottom: 40px;
+  padding-bottom: 2.5rem;
 }
 
 
@@ -442,7 +443,7 @@ padding-top: 20px;
   font-size: 1.4em;
   font-weight: 450;
   color: rgb(70, 71, 73);
-  padding: 10px;
+  padding: 0.625rem;
 }
 
 .project_description {
@@ -452,16 +453,16 @@ padding-top: 20px;
   font-size: 0.8em;
   font-weight: 400;
   color: rgb(70, 72, 75);
-  padding: 5px;
+  padding: 0.3125rem;
 }
 
 /* CSS for about.html */
 
 .word_title {
-  padding-bottom: 20px;
-  margin: 20px 0;
+  padding-bottom: 1.25rem;
+  margin: 1.25rem 0;
   width: 100%;
-  height: 400px;
+  height: 25rem;
   background-color: rgb(0, 0, 0); 
   display: inline-block;
   display: flex;
@@ -479,10 +480,10 @@ padding-top: 20px;
     text-transform: uppercase;
     font-size: 6em;
     font-weight: 200;
-    letter-spacing: 4px;
+    letter-spacing: 0.25rem;
     color: rgb(255, 255, 255);
-    margin:  50px;
-    padding: 10px;
+    margin:  3.125rem;
+    padding: 0.625rem;
 }
 
 #about_description {
@@ -490,8 +491,8 @@ padding-top: 20px;
   width: 80%;
   height: auto;
   background-color:rgb(250, 249, 249) ;
-  margin: 40px 5%;
-  padding: 30px 30px;
+  margin: 2.5rem 5%;
+  padding: 1.875rem;
   justify-content: left;
   vertical-align: center;
 }
@@ -519,19 +520,19 @@ padding-top: 20px;
   font-size: 3em;
   font-weight: 450;
   color: rgb(34, 34, 34);
-  letter-spacing: 2px;
+  letter-spacing: 0.125rem;
   line-height: 1.5em;
-  padding: 20px;
+  padding: 1.25rem;
   text-align: left;
 }
 
 #sitemap,#error_page {
 background: url("Pictures/logo.png") no-repeat center fixed;
 background-size: auto;
-background-position-y: 300px;
+background-position-y: 18.75rem;
 overflow: auto;
-height: 720px;
-padding-bottom: 200px;
+height: 45rem;
+padding-bottom: 12.5rem;
 }
 
 #sitemap_table {
@@ -547,9 +548,9 @@ padding-bottom: 200px;
   font-size: 2em;
   font-weight: 450;
   color: rgb(20, 20, 20);
-  letter-spacing: 2px;
+  letter-spacing: 0.125rem;
   line-height: 1.5em;
-  padding: 20px;
+  padding: 1.25rem;
   text-align: left;
 }
 
@@ -558,9 +559,9 @@ padding-bottom: 200px;
   font-size: 1.5em;
   font-weight: 350;
   color: rgb(34, 34, 34);
-  letter-spacing: 1px;
+  letter-spacing: 0.0625rem;
   line-height: 1.5em;
-  padding: 20px;
+  padding: 1.25rem;
   text-decoration: none;
 }
 
@@ -570,12 +571,12 @@ padding-bottom: 200px;
   font-size: 3em;
   font-weight: 450;
   color: rgb(34, 34, 34);
-  letter-spacing: 2px;
+  letter-spacing: 0.125rem;
   line-height: 1em;
-  padding: 20px;
+  padding: 1.25rem;
   text-align: center;
   text-decoration: none;
-  margin-top: 50px;
+  margin-top: 3.125rem;
 
 }
 
@@ -604,7 +605,19 @@ padding-bottom: 200px;
   and (max-device-width: 480px)
   and (-webkit-min-device-pixel-ratio: 2)
   and (orientation: portrait) {
- 
+ body {
+   font-size: 12px;
+ }
+ .subheader_languages {
+  top: 10%;
+  bottom: 20%;
+  text-align: center;
+  margin: auto;
+  font-size: 12px;
+}
+#programming_languages {
+  align-content: center;
+}
 }
 
 /* Landscape */
@@ -613,7 +626,9 @@ padding-bottom: 200px;
   and (max-device-width: 480px)
   and (-webkit-min-device-pixel-ratio: 2)
   and (orientation: landscape) {
-
+    body {
+      font-size: 12px;
+    }
 }
 
 /* iPhone 5, 5S, 5C and 5SE */
@@ -623,7 +638,9 @@ padding-bottom: 200px;
   and (min-device-width: 320px) 
   and (max-device-width: 568px)
   and (-webkit-min-device-pixel-ratio: 2) {
-   
+    body {
+      font-size: 12px;
+    }
 }
 
 /* Portrait */
@@ -632,7 +649,10 @@ padding-bottom: 200px;
   and (max-device-width: 568px)
   and (-webkit-min-device-pixel-ratio: 2)
   and (orientation: portrait) {
-   
+    body {
+      font-size: 12px;
+    }
+    
 }
 
 /* Landscape */
@@ -641,7 +661,9 @@ padding-bottom: 200px;
   and (max-device-width: 568px)
   and (-webkit-min-device-pixel-ratio: 2)
   and (orientation: landscape) {
-   
+    body {
+      font-size: 12px;
+    }
 }
 
 /* iPhone 6, 6S, 7 and 8 */
@@ -651,7 +673,9 @@ padding-bottom: 200px;
   and (min-device-width: 375px) 
   and (max-device-width: 667px) 
   and (-webkit-min-device-pixel-ratio: 2) { 
- 
+    body {
+      font-size: 12px;
+    }
 }
 
 /* Portrait */
@@ -660,7 +684,9 @@ padding-bottom: 200px;
   and (max-device-width: 667px) 
   and (-webkit-min-device-pixel-ratio: 2)
   and (orientation: portrait) { 
-
+    body {
+      font-size: 12px;
+    }
 }
 
 /* Landscape */
@@ -669,7 +695,9 @@ padding-bottom: 200px;
   and (max-device-width: 667px) 
   and (-webkit-min-device-pixel-ratio: 2)
   and (orientation: landscape) { 
-
+    body {
+      font-size: 12px;
+    }
 }
 
 /* iPhone 6+, 7+ and 8+ */
@@ -679,7 +707,9 @@ padding-bottom: 200px;
   and (min-device-width: 414px) 
   and (max-device-width: 736px) 
   and (-webkit-min-device-pixel-ratio: 3) { 
-
+    body {
+      font-size: 14px;
+    }
 }
 
 /* Portrait */
@@ -688,7 +718,9 @@ padding-bottom: 200px;
   and (max-device-width: 736px) 
   and (-webkit-min-device-pixel-ratio: 3)
   and (orientation: portrait) { 
-
+    body {
+      font-size: 14px;
+    }
 }
 
 /* Landscape */
@@ -697,7 +729,9 @@ padding-bottom: 200px;
   and (max-device-width: 736px) 
   and (-webkit-min-device-pixel-ratio: 3)
   and (orientation: landscape) { 
-
+    body {
+      font-size: 14px;
+    }
 }
 
 /* iPhone X */
@@ -707,7 +741,9 @@ padding-bottom: 200px;
   and (min-device-width: 375px) 
   and (max-device-width: 812px) 
   and (-webkit-min-device-pixel-ratio: 3) { 
-
+    body {
+      font-size: 14px;
+    }
 }
 
 /* Portrait */
@@ -716,7 +752,9 @@ padding-bottom: 200px;
   and (max-device-width: 812px) 
   and (-webkit-min-device-pixel-ratio: 3)
   and (orientation: portrait) { 
-
+    body {
+      font-size: 14px;
+    }
 }
 
 /* Landscape */
@@ -725,7 +763,9 @@ padding-bottom: 200px;
   and (max-device-width: 812px) 
   and (-webkit-min-device-pixel-ratio: 3)
   and (orientation: landscape) { 
-
+    body {
+      font-size: 14px;
+    }
 }
 /*   iPad 3, 4 and Pro 9.7"   */
 
@@ -734,7 +774,9 @@ padding-bottom: 200px;
   and (min-device-width: 768px) 
   and (max-device-width: 1024px) 
   and (-webkit-min-device-pixel-ratio: 2) {
-
+    body {
+      font-size: 15px;
+    }
 }
 
 /* Portrait */
@@ -743,7 +785,9 @@ padding-bottom: 200px;
   and (max-device-width: 1024px) 
   and (orientation: portrait) 
   and (-webkit-min-device-pixel-ratio: 2) {
- 
+    body {
+      font-size: 14px;
+    }
 }
 
 /* Landscape */
@@ -752,7 +796,9 @@ padding-bottom: 200px;
   and (max-device-width: 1024px) 
   and (orientation: landscape) 
   and (-webkit-min-device-pixel-ratio: 2) {
-
+    body {
+      font-size: 14px;
+    }
 }
 
 /*   iPad Pro 10.5"   */
@@ -762,7 +808,9 @@ padding-bottom: 200px;
   and (min-device-width: 834px) 
   and (max-device-width: 1112px)
   and (-webkit-min-device-pixel-ratio: 2) {
-
+    body {
+      font-size: 14px;
+    }
 }
 
 /* Portrait */
@@ -771,7 +819,9 @@ padding-bottom: 200px;
   and (max-device-width: 834px) 
   and (orientation: portrait) 
   and (-webkit-min-device-pixel-ratio: 2) {
-
+    body {
+      font-size: 14px;
+    }
 }
 
 /* Landscape */
@@ -780,7 +830,9 @@ padding-bottom: 200px;
   and (max-device-width: 1112px) 
   and (orientation: landscape) 
   and (-webkit-min-device-pixel-ratio: 2) {
-
+    body {
+      font-size: 14px;
+    }
 }
 
 /* iPad Pro 12.9" */
@@ -790,7 +842,9 @@ padding-bottom: 200px;
   and (min-device-width: 1024px) 
   and (max-device-width: 1366px)
   and (-webkit-min-device-pixel-ratio: 2) {
-
+    body {
+      font-size: 14px;
+    }
 }
 
 /* Portrait */
@@ -799,7 +853,9 @@ padding-bottom: 200px;
   and (max-device-width: 1024px) 
   and (orientation: portrait) 
   and (-webkit-min-device-pixel-ratio: 2) {
-
+    body {
+      font-size: 14px;
+    }
 }
 
 /* Landscape */
@@ -808,7 +864,9 @@ padding-bottom: 200px;
   and (max-device-width: 1366px) 
   and (orientation: landscape) 
   and (-webkit-min-device-pixel-ratio: 2) {
-
+    body {
+      font-size: 14px;
+    }
 }
 /* Laptops */
 
@@ -816,7 +874,10 @@ padding-bottom: 200px;
 @media screen 
   and (min-device-width: 1200px) 
   and (max-device-width: 1600px) 
-  and (-webkit-min-device-pixel-ratio: 1) { 
+  and (-webkit-min-device-pixel-ratio: 1) {
+    body {
+      font-size: 15px;
+    }
 }
 
 /* Retina Screens */
