@@ -599,6 +599,14 @@ padding-bottom: 12.5rem;
 
 /* iPhone 4 and 4S */
 
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 480px) 
+  and (-webkit-min-device-pixel-ratio: 2) { 
+    body {
+      font-size: 12px;
+    }
+}
 /* Portrait */
 @media only screen 
   and (min-device-width: 320px) 
@@ -609,12 +617,10 @@ padding-bottom: 12.5rem;
    font-size: 12px;
  }
  #q {
-  position: absolute;
   margin: auto;
   text-align: center;
 }
  #buttons {
-  position: absolute;
   text-align: center;
   margin: auto;
 }
@@ -641,6 +647,14 @@ padding-bottom: 12.5rem;
 
 /* iPhone 5, 5S, 5C and 5SE */
 
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 580px) 
+  and (-webkit-min-device-pixel-ratio: 2) { 
+    body {
+      font-size: 12px;
+    }
+}
 /* Portrait */
 @media only screen 
   and (min-device-width: 320px) 
@@ -651,12 +665,10 @@ padding-bottom: 12.5rem;
       font-size: 12px;
     }
     #q {
-      position: absolute;
       margin: auto;
       text-align: center;
     }
-    #buttons {
-      position: absolute;
+    #buttons { 
       text-align: center;
       margin: auto;
     }     
@@ -683,6 +695,15 @@ padding-bottom: 12.5rem;
 
 /* iPhone 6, 6S, 7 and 8 */
 
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 667px) 
+  and (-webkit-min-device-pixel-ratio: 2) { 
+    body {
+      font-size: 12px;
+    }
+}
+
 /* Portrait */
 @media only screen 
   and (min-device-width: 375px) 
@@ -693,12 +714,10 @@ padding-bottom: 12.5rem;
       font-size: 12px;
     }
     #q {
-      position: absolute;
       margin: auto;
       text-align: center;
     }
     #buttons {
-      position: absolute;
       text-align: center;
       margin: auto;
     }
@@ -726,6 +745,15 @@ padding-bottom: 12.5rem;
 
 /* iPhone 6+, 7+ and 8+ */
 
+@media only screen 
+  and (min-device-width: 414px) 
+  and (max-device-width: 736px) 
+  and (-webkit-min-device-pixel-ratio: 2) { 
+    body {
+      font-size: 14px;
+    }
+}
+
 /* Portrait */
 @media only screen 
   and (min-device-width: 414px) 
@@ -736,12 +764,10 @@ padding-bottom: 12.5rem;
       font-size: 14px;
     }
     #q {
-      position: absolute;
       margin: auto;
       text-align: center;
     }
     #buttons {
-      position: absolute;
       text-align: center;
       margin: auto;
     }
