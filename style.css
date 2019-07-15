@@ -610,7 +610,9 @@ padding-bottom: 12.5rem;
       height: auto;
     }
     .description {
-      margin: auto ; 
+      padding-left: 8%;
+      padding-right: 8%;
+      margin: auto;
     }
 }
 /* Portrait */
@@ -671,7 +673,9 @@ padding-bottom: 12.5rem;
       height: auto;
     }
     .description {
-      margin: auto ; 
+      padding-left: 8%;
+      padding-right: 8%;
+      margin: auto;
     }
 }
 /* Portrait */
@@ -732,7 +736,9 @@ padding-bottom: 12.5rem;
       height: auto;
     }
     .description {
-      margin: auto ; 
+      padding-left: 8%;
+      padding-right: 8%;
+      margin: auto;
     }
 }
 
@@ -795,7 +801,9 @@ padding-bottom: 12.5rem;
       height: auto;
     }
     .description {
-      margin: auto ; 
+      padding-left: 8%;
+      padding-right: 8%;
+      margin: auto;
     }
 }
 
