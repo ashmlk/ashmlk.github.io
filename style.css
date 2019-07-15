@@ -619,10 +619,12 @@ padding-bottom: 12.5rem;
  #q {
   margin: auto;
   text-align: center;
+  width: auto;
 }
  #buttons {
   text-align: center;
   margin: auto;
+  width: auto;
 }
 }
 
@@ -667,10 +669,13 @@ padding-bottom: 12.5rem;
     #q {
       margin: auto;
       text-align: center;
+      width: auto;
+
     }
     #buttons { 
       text-align: center;
       margin: auto;
+      width: auto;
     }     
 }
 
@@ -716,10 +721,12 @@ padding-bottom: 12.5rem;
     #q {
       margin: auto;
       text-align: center;
+      width: auto;
     }
     #buttons {
       text-align: center;
       margin: auto;
+      width: auto;
     }
     
 }
@@ -766,10 +773,12 @@ padding-bottom: 12.5rem;
     #q {
       margin: auto;
       text-align: center;
+      width: auto;
     }
     #buttons {
       text-align: center;
       margin: auto;
+      width: auto;
     }
 }
 
