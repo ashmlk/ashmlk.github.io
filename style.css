@@ -609,6 +609,9 @@ padding-bottom: 12.5rem;
     #menu{
       height: auto;
     }
+    .description {
+      margin: auto ; 
+    }
 }
 /* Portrait */
 @media only screen 
@@ -667,6 +670,9 @@ padding-bottom: 12.5rem;
     #menu{
       height: auto;
     }
+    .description {
+      margin: auto ; 
+    }
 }
 /* Portrait */
 @media only screen 
@@ -724,6 +730,9 @@ padding-bottom: 12.5rem;
     }
     #menu{
       height: auto;
+    }
+    .description {
+      margin: auto ; 
     }
 }
 
@@ -784,6 +793,9 @@ padding-bottom: 12.5rem;
     }
     #menu{
       height: auto;
+    }
+    .description {
+      margin: auto ; 
     }
 }
 
