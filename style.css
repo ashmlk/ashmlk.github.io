@@ -619,12 +619,10 @@ padding-bottom: 12.5rem;
  #q {
   margin: auto;
   text-align: center;
-  width: 90%;
 }
  #buttons {
   text-align: center;
   margin: auto;
-  width: 90%;
 }
 }
 
@@ -670,13 +668,10 @@ padding-bottom: 12.5rem;
     #q {
       margin: auto;
       text-align: center;
-      width: 90%;
-      
     }
     #buttons { 
     text-align: center;
     margin: auto;
-    width: 90%;
     }     
 }
 
@@ -720,15 +715,19 @@ padding-bottom: 12.5rem;
     body {
       font-size: 10px;
     }
+    #menu_bx1{
+      position: absolute;
+    }
+    #menu_bx2{
+      position: absolute;
+    }
     #q {
       margin: auto;
       text-align: center;
-      width: 90%;
     }
     #buttons {
       text-align: center;
       margin: auto;
-      width: 90%;
     }
     
 }
