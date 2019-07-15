@@ -618,9 +618,9 @@ padding-bottom: 12.5rem;
  }
  #q {
   position: static;
-  right: 50%;
-  left: 5%;
-
+  text-align: center;
+  margin: auto;
+  top: 20%;
 }
  #buttons {
   text-align: center;
@@ -638,8 +638,11 @@ padding-bottom: 12.5rem;
     body {
       font-size: 10px;
     }
+    #q {
+      top: 20%;
+    }
     #buttons {
-    top: 38%;
+    top: 14%;
     bottom: 0;
     left: 70%;
     text-align: left;
@@ -671,6 +674,7 @@ padding-bottom: 12.5rem;
       margin: auto;
       text-align: center;
       position: static;
+      top: 20%;     
     }
     #buttons { 
     text-align: center;
@@ -688,8 +692,11 @@ padding-bottom: 12.5rem;
     body {
       font-size: 10px;
     }
+    #q {
+      top: 20%;     
+    }
     #buttons {
-      top: 38%;
+      top: 14%;
       bottom: 0;
       left: 70%;
       text-align: left;
@@ -722,6 +729,7 @@ padding-bottom: 12.5rem;
       margin: auto;
       text-align: center;
       position: static;
+      top: 20%;
     }
     #buttons {
       text-align: center;
@@ -740,8 +748,11 @@ padding-bottom: 12.5rem;
     body {
       font-size: 10px;
     }
+    #q {
+      top: 20%;
+    }
     #buttons {
-      top: 38%;
+      top: 14%;
       bottom: 0;
       left: 70%;
       text-align: left;
@@ -774,6 +785,7 @@ padding-bottom: 12.5rem;
       margin: auto;
       text-align: center;
       position: static;
+      top: 20%;
     }
     #buttons {
       text-align: center;
@@ -791,8 +803,14 @@ padding-bottom: 12.5rem;
     body {
       font-size: 12px;
     }
+    #q {
+      margin: auto;
+      text-align: center;
+      position: static;
+      top: 20%;
+    }
     #buttons {
-      top: 38%;
+      top: 14%;
       bottom: 0;
       left: 70%;
       text-align: left;
