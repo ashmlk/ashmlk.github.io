@@ -604,7 +604,6 @@ padding-bottom: 12.5rem;
   and (-webkit-min-device-pixel-ratio: 2) { 
     html {
       scroll-behavior: smooth;
-      -webkit-overflow-y-scrolling: touch;
     }
     body {
       font-size: 10px;
@@ -671,7 +670,6 @@ padding-bottom: 12.5rem;
   and (-webkit-min-device-pixel-ratio: 2) { 
     html {
       scroll-behavior: smooth;
-      -webkit-overflow-y-scrolling: touch;
     }
     body {
       font-size: 10px;
@@ -738,7 +736,6 @@ padding-bottom: 12.5rem;
   and (-webkit-min-device-pixel-ratio: 2) {
     html {
       scroll-behavior: smooth;
-      -webkit-overflow-y-scrolling: touch;
     } 
     body {
       font-size: 10px;
@@ -807,7 +804,6 @@ padding-bottom: 12.5rem;
   and (-webkit-min-device-pixel-ratio: 2) { 
     html {
       scroll-behavior: smooth;
-      -webkit-overflow-y-scrolling: touch;
     }
     body {
       font-size: 12px;
