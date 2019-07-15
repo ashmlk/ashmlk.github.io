@@ -619,7 +619,7 @@ padding-bottom: 12.5rem;
  #q {
   margin: auto;
   text-align: center;
-  width: 100%;
+  width: 90%;
 }
  #buttons {
   text-align: center;
@@ -670,13 +670,13 @@ padding-bottom: 12.5rem;
     #q {
       margin: auto;
       text-align: center;
-      width: 100%;
-      position: absolute;
+      width: 90%;
+      
     }
     #buttons { 
-      text-align: center;
-  margin: auto;
-  width: 90%;
+    text-align: center;
+    margin: auto;
+    width: 90%;
     }     
 }
 
@@ -723,7 +723,7 @@ padding-bottom: 12.5rem;
     #q {
       margin: auto;
       text-align: center;
-      width: 100%;
+      width: 90%;
     }
     #buttons {
       text-align: center;
@@ -776,7 +776,7 @@ padding-bottom: 12.5rem;
     #q {
       margin: auto;
       text-align: center;
-      width: 100%;
+      width: 90%;
     }
     #buttons {
       text-align: center;
