@@ -622,10 +622,9 @@ padding-bottom: 12.5rem;
   width: 100%;
 }
  #buttons {
-   position: absolute;
   text-align: center;
   margin: auto;
-  width: 100%;
+  width: 90%;
 }
 }
 
@@ -676,8 +675,8 @@ padding-bottom: 12.5rem;
     }
     #buttons { 
       text-align: center;
-      margin: auto;
-      width: 100%;
+  margin: auto;
+  width: 90%;
     }     
 }
 
@@ -729,8 +728,7 @@ padding-bottom: 12.5rem;
     #buttons {
       text-align: center;
       margin: auto;
-      width: 100%;
-      position: absolute;
+      width: 90%;
     }
     
 }
@@ -783,8 +781,7 @@ padding-bottom: 12.5rem;
     #buttons {
       text-align: center;
       margin: auto;
-      width: 100%;
-      position: absolute;
+      width: 90%;
     }
 }
 
