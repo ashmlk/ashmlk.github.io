@@ -636,7 +636,6 @@ padding-bottom: 12.5rem;
       font-size: 10px;
     }
     #buttons {
-    position: absolute;
     top: 38%;
     bottom: 0;
     left: 70%;
@@ -685,7 +684,6 @@ padding-bottom: 12.5rem;
       font-size: 10px;
     }
     #buttons {
-      position: absolute;
       top: 38%;
       bottom: 0;
       left: 70%;
@@ -715,12 +713,6 @@ padding-bottom: 12.5rem;
     body {
       font-size: 10px;
     }
-    #menu_bx1{
-      position: absolute;
-    }
-    #menu_bx2{
-      position: absolute;
-    }
     #q {
       margin: auto;
       text-align: center;
@@ -742,7 +734,6 @@ padding-bottom: 12.5rem;
       font-size: 10px;
     }
     #buttons {
-      position: absolute;
       top: 38%;
       bottom: 0;
       left: 70%;
