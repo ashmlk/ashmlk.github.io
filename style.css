@@ -198,7 +198,6 @@ hr {
   overflow: auto;
   height: 45rem;
   padding-bottom: 12.5rem;
-  
 }
 
 #q {
@@ -604,7 +603,7 @@ padding-bottom: 12.5rem;
   and (max-device-width: 480px) 
   and (-webkit-min-device-pixel-ratio: 2) { 
     body {
-      font-size: 12px;
+      font-size: 10px;
       width: 100%;
     }
 }
@@ -615,7 +614,7 @@ padding-bottom: 12.5rem;
   and (-webkit-min-device-pixel-ratio: 2)
   and (orientation: portrait) {
  body {
-   font-size: 12px;
+   font-size: 10px;
  }
  #q {
   margin: auto;
@@ -623,6 +622,7 @@ padding-bottom: 12.5rem;
   width: 100%;
 }
  #buttons {
+   position: absolute;
   text-align: center;
   margin: auto;
   width: 100%;
@@ -636,7 +636,7 @@ padding-bottom: 12.5rem;
   and (-webkit-min-device-pixel-ratio: 2)
   and (orientation: landscape) {
     body {
-      font-size: 12px;
+      font-size: 10px;
     }
     #buttons {
     position: absolute;
@@ -655,7 +655,7 @@ padding-bottom: 12.5rem;
   and (max-device-width: 580px) 
   and (-webkit-min-device-pixel-ratio: 2) { 
     body {
-      font-size: 12px;
+      font-size: 10px;
       width: 100%;
     }
 }
@@ -666,13 +666,13 @@ padding-bottom: 12.5rem;
   and (-webkit-min-device-pixel-ratio: 2)
   and (orientation: portrait) {
     body {
-      font-size: 12px;
+      font-size: 10px;
     }
     #q {
       margin: auto;
       text-align: center;
       width: 100%;
-
+      position: absolute;
     }
     #buttons { 
       text-align: center;
@@ -688,7 +688,7 @@ padding-bottom: 12.5rem;
   and (-webkit-min-device-pixel-ratio: 2)
   and (orientation: landscape) {
     body {
-      font-size: 12px;
+      font-size: 10px;
     }
     #buttons {
       position: absolute;
@@ -707,7 +707,7 @@ padding-bottom: 12.5rem;
   and (max-device-width: 667px) 
   and (-webkit-min-device-pixel-ratio: 2) { 
     body {
-      font-size: 12px;
+      font-size: 10px;
       width: 100%;
     }
 }
@@ -719,7 +719,7 @@ padding-bottom: 12.5rem;
   and (-webkit-min-device-pixel-ratio: 2)
   and (orientation: portrait) { 
     body {
-      font-size: 12px;
+      font-size: 10px;
     }
     #q {
       margin: auto;
@@ -730,6 +730,7 @@ padding-bottom: 12.5rem;
       text-align: center;
       margin: auto;
       width: 100%;
+      position: absolute;
     }
     
 }
@@ -741,7 +742,7 @@ padding-bottom: 12.5rem;
   and (-webkit-min-device-pixel-ratio: 2)
   and (orientation: landscape) { 
     body {
-      font-size: 12px;
+      font-size: 10px;
     }
     #buttons {
       position: absolute;
@@ -760,7 +761,7 @@ padding-bottom: 12.5rem;
   and (max-device-width: 736px) 
   and (-webkit-min-device-pixel-ratio: 2) { 
     body {
-      font-size: 14px;
+      font-size: 12px;
       width: 100%;
     }
 }
@@ -772,7 +773,7 @@ padding-bottom: 12.5rem;
   and (-webkit-min-device-pixel-ratio: 3)
   and (orientation: portrait) { 
     body {
-      font-size: 14px;
+      font-size: 12px;
     }
     #q {
       margin: auto;
@@ -783,6 +784,7 @@ padding-bottom: 12.5rem;
       text-align: center;
       margin: auto;
       width: 100%;
+      position: absolute;
     }
 }
 
@@ -793,10 +795,9 @@ padding-bottom: 12.5rem;
   and (-webkit-min-device-pixel-ratio: 3)
   and (orientation: landscape) { 
     body {
-      font-size: 14px;
+      font-size: 12px;
     }
     #buttons {
-      position: absolute;
       top: 38%;
       bottom: 0;
       left: 70%;
