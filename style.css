@@ -606,6 +606,9 @@ padding-bottom: 12.5rem;
       font-size: 10px;
       width: 100%;
     }
+    #menu{
+      height: auto;
+    }
 }
 /* Portrait */
 @media only screen 
@@ -620,7 +623,7 @@ padding-bottom: 12.5rem;
   position: static;
   text-align: center;
   margin: auto;
-  top: 20%;
+  padding-top: 20%;
 }
  #buttons {
   text-align: center;
@@ -660,6 +663,9 @@ padding-bottom: 12.5rem;
       font-size: 10px;
       width: 100%;
     }
+    #menu{
+      height: auto;
+    }
 }
 /* Portrait */
 @media only screen 
@@ -674,7 +680,7 @@ padding-bottom: 12.5rem;
       margin: auto;
       text-align: center;
       position: static;
-      top: 20%;     
+      padding-top: 20%;     
     }
     #buttons { 
     text-align: center;
@@ -714,6 +720,9 @@ padding-bottom: 12.5rem;
       font-size: 10px;
       width: 100%;
     }
+    #menu{
+      height: auto;
+    }
 }
 
 /* Portrait */
@@ -729,7 +738,7 @@ padding-bottom: 12.5rem;
       margin: auto;
       text-align: center;
       position: static;
-      top: 20%;
+      padding-top: 20%;
     }
     #buttons {
       text-align: center;
@@ -770,6 +779,9 @@ padding-bottom: 12.5rem;
       font-size: 12px;
       width: 100%;
     }
+    #menu{
+      height: auto;
+    }
 }
 
 /* Portrait */
@@ -785,7 +797,7 @@ padding-bottom: 12.5rem;
       margin: auto;
       text-align: center;
       position: static;
-      top: 20%;
+      padding-top: 20%;
     }
     #buttons {
       text-align: center;
