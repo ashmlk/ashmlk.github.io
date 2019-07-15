@@ -617,12 +617,15 @@ padding-bottom: 12.5rem;
    font-size: 10px;
  }
  #q {
-  margin: auto;
-  text-align: center;
+  position: static;
+  right: 50%;
+  left: 5%;
+
 }
  #buttons {
   text-align: center;
   margin: auto;
+  position: static;
 }
 }
 
@@ -667,10 +670,12 @@ padding-bottom: 12.5rem;
     #q {
       margin: auto;
       text-align: center;
+      position: static;
     }
     #buttons { 
     text-align: center;
     margin: auto;
+    position: static;
     }     
 }
 
@@ -716,10 +721,12 @@ padding-bottom: 12.5rem;
     #q {
       margin: auto;
       text-align: center;
+      position: static;
     }
     #buttons {
       text-align: center;
       margin: auto;
+      position: static;
     }
     
 }
@@ -766,12 +773,12 @@ padding-bottom: 12.5rem;
     #q {
       margin: auto;
       text-align: center;
-      width: 90%;
+      position: static;
     }
     #buttons {
       text-align: center;
       margin: auto;
-      width: 90%;
+      position: static;
     }
 }
 
