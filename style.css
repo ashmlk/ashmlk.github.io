@@ -639,13 +639,16 @@ padding-bottom: 12.5rem;
   margin: auto;
   position: static;
 }
+#programming_languages{
+  justify-content: center;
+}
 .subheader_languages {
   font-size: 1rem;
   text-align: center;
-  top: auto;
-  bottom: auto;
-  right: auto;
-  left: auto;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
 }
 #languages_table {
   text-align: auto;
@@ -734,13 +737,16 @@ li{
     margin: auto;
     position: static;
     } 
+    #programming_languages{
+      justify-content: center;
+    }
     .subheader_languages {
       font-size: 1rem;
       text-align: center;
-      top: auto;
-      bottom: auto;
-      right: auto;
-      left: auto;
+      top: 0;
+      bottom: 0;
+      right: 0;
+      left: 0;
     }
     #languages_table {
       text-align: auto;
@@ -830,13 +836,17 @@ li{
       margin: auto;
       position: static;
     }
+    #programming_languages{
+      justify-content: center;
+    }
     .subheader_languages {
       font-size: 1rem;
       text-align: center;
       top: auto;
-      bottom: auto;
-      right: auto;
-      left: auto;
+      top: 0;
+      bottom: 0;
+      right: 0;
+      left: 0;
     }
     #languages_table {
       text-align: auto;
@@ -926,13 +936,16 @@ li{
       margin: auto;
       position: static;
     }
+    #programming_languages{
+      justify-content: center;
+    }
     .subheader_languages {
       font-size: 1rem;
       text-align: center;
-      top: auto;
-      bottom: auto;
-      right: auto;
-      left: auto;
+      top: 0;
+      bottom: 0;
+      right: 0;
+      left: 0;
     }
     #languages_table {
       text-align: auto;
