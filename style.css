@@ -392,7 +392,7 @@ padding-top: 1.25rem;
 #programming_skills {
   position: relative;
   width: 80%;
-  height: 45%;
+  height: 50%;
   background-color:rgb(248, 247, 247) ;
   margin: auto;
 }
@@ -639,6 +639,10 @@ padding-bottom: 12.5rem;
   margin: auto;
   position: static;
 }
+#programming_languages {
+  position: relative;
+  height: auto;
+}
 .subheader_languages {
   font-size: 2em;
   text-align: center;
@@ -659,6 +663,7 @@ ul#languages {
   position: static;
   list-style-type: none;
   padding-top: 1rem;
+  padding-bottom: 1rem;
 }
 li{
   display: inline;
@@ -730,8 +735,12 @@ li{
     margin: auto;
     position: static;
     } 
+    #programming_languages {
+      position: relative;
+      height: auto;
+    }
     .subheader_languages {
-      font-size: 1em;
+      font-size: 2em;
       text-align: center;
       padding-top: auto;
       margin: auto;
@@ -750,6 +759,7 @@ li{
       position: static;
       list-style-type: none;
       padding-top: 1rem;
+      padding-bottom: 1rem;
     }
     li{
       display: inline;
@@ -822,6 +832,16 @@ li{
       margin: auto;
       position: static;
     }
+    #programming_languages {
+      position: relative;
+      height: auto;
+    }
+    .subheader_languages {
+      font-size: 2em;
+      text-align: center;
+      padding-top: auto;
+      margin: auto;
+    }
     #languages_table {
       position: absolute;
       text-align: auto;
@@ -836,11 +856,11 @@ li{
       position: static;
       list-style-type: none;
       padding-top: 1rem;
+      padding-bottom: 1rem;
     }
     li{
       display: inline;
     }
-    
 }
 
 /* Landscape */
@@ -908,8 +928,12 @@ li{
       margin: auto;
       position: static;
     }
+    #programming_languages {
+      position: relative;
+      height: auto;
+    }
     .subheader_languages {
-      font-size: 1em;
+      font-size: 2em;
       text-align: center;
       padding-top: auto;
       margin: auto;
@@ -928,11 +952,11 @@ li{
       position: static;
       list-style-type: none;
       padding-top: 1rem;
+      padding-bottom: 1rem;
     }
     li{
       display: inline;
     }
-    
 }
 
 /* Landscape */
