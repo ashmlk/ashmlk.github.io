@@ -639,7 +639,31 @@ padding-bottom: 12.5rem;
   margin: auto;
   position: static;
 }
-c
+.subheader_languages {
+  font-size: 1rem;
+  text-align: center;
+  padding-top: auto;
+  margin: auto;
+}
+#languages_table {
+  text-align: auto;
+  top: auto;
+  bottom: auto;
+  left: auto;
+  right:auto; 
+  margin: 0 auto;
+  display: table;
+}
+ul#languages {
+  position: absolute;
+  top: 40%;
+  list-style-type: none;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+li{
+  float: left;
+}
 }
 
 /* Landscape */
@@ -722,6 +746,8 @@ c
       display: table;
     }
     ul#languages {
+      position: absolute;
+      top: 40%;
       list-style-type: none;
       padding-top: 1rem;
       padding-bottom: 1rem;
@@ -812,6 +838,8 @@ c
       display: table;
     }
     ul#languages {
+      position: absolute;
+      top: 40%;
       list-style-type: none;
       padding-top: 1rem;
       padding-bottom: 1rem;
@@ -902,6 +930,8 @@ c
       display: table;
     }
     ul#languages {
+      position: absolute;
+      top: 40%;
       list-style-type: none;
       padding-top: 1rem;
       padding-bottom: 1rem;
