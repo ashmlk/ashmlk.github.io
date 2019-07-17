@@ -640,9 +640,17 @@ padding-bottom: 12.5rem;
   position: static;
 }
 .subheader_languages {
-  letter-spacing: 0.125rem; 
   text-align: center;
-  padding-top: 0.5rem;
+  padding-top: 0.15rem;
+  margin: auto;
+}
+#languages_table {
+  position: relative;
+  text-align: auto;
+  top: auto;
+  bottom: auto;
+  left: auto;
+  right:auto; 
   margin: auto;
 }
 ul{
@@ -715,14 +723,22 @@ ul{
     position: static;
     } 
     .subheader_languages {
-      letter-spacing: 0.125rem; 
       text-align: center;
-      padding-top: 0.5rem;
+      padding-top: 0.15rem;
+      margin: auto;
+    }
+    #languages_table {
+      position: relative;
+      text-align: auto;
+      top: auto;
+      bottom: auto;
+      left: auto;
+      right:auto; 
       margin: auto;
     }
     ul{
       display: inline;
-    }    
+    }   
 }
 
 /* Landscape */
@@ -791,9 +807,17 @@ ul{
       position: static;
     }
     .subheader_languages {
-      letter-spacing: 0.125rem; 
       text-align: center;
-      padding-top: 0.5rem;
+      padding-top: 0.15rem;
+      margin: auto;
+    }
+    #languages_table {
+      position: relative;
+      text-align: auto;
+      top: auto;
+      bottom: auto;
+      left: auto;
+      right:auto; 
       margin: auto;
     }
     ul{
@@ -868,9 +892,17 @@ ul{
       position: static;
     }
     .subheader_languages {
-      letter-spacing: 0.125rem; 
       text-align: center;
-      padding-top: 0.5rem;
+      padding-top: 0.15rem;
+      margin: auto;
+    }
+    #languages_table {
+      position: relative;
+      text-align: auto;
+      top: auto;
+      bottom: auto;
+      left: auto;
+      right:auto; 
       margin: auto;
     }
     ul{
