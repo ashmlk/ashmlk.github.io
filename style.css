@@ -310,7 +310,7 @@ hr {
   -moz-background-size: cover;
   -webkit-background-size: cover;
   padding-bottom: 12.5rem;
-  overflow-x: hidden;
+  overflow: auto;
 }
 
 #page_title {
@@ -609,6 +609,9 @@ padding-bottom: 12.5rem;
       font-size: 10px;
       width: 100%;
     }
+    #index,#menu,#skills,#about,#sitemap{
+      -webkit-overflow-scrolling: touch;
+    }
     #menu{
       height: auto;
     }
@@ -707,6 +710,9 @@ li{
       font-size: 10px;
       width: 100%;
     }
+    #index,#menu,#skills,#about,#sitemap{
+      -webkit-overflow-scrolling: touch;
+    }
     #menu{
       height: auto;
     }
@@ -804,6 +810,9 @@ li{
     body {
       font-size: 10px;
       width: 100%;
+    }
+    #index,#menu,#skills,#about,#sitemap{
+      -webkit-overflow-scrolling: touch;
     }
     #menu{
       height: auto;
@@ -904,6 +913,9 @@ li{
     body {
       font-size: 12px;
       width: 100%;
+    }
+    #index,#menu,#skills,#about,#sitemap{
+      -webkit-overflow-scrolling: touch;
     }
     #menu{
       height: auto;
