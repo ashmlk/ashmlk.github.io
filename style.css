@@ -639,6 +639,15 @@ padding-bottom: 12.5rem;
   margin: auto;
   position: static;
 }
+.subheader_languages {
+  letter-spacing: 0.125rem; 
+  text-align: center;
+  padding-top: 2rem;
+  margin: auto;
+}
+#languages{
+  display: inline-block;
+}
 }
 
 /* Landscape */
@@ -704,7 +713,16 @@ padding-bottom: 12.5rem;
     text-align: center;
     margin: auto;
     position: static;
-    }     
+    } 
+    .subheader_languages {
+      letter-spacing: 0.125rem; 
+      text-align: center;
+      padding-top: 2rem;
+      margin: auto;
+    }
+    #languages{
+      display: inline-block;
+    }    
 }
 
 /* Landscape */
@@ -771,6 +789,15 @@ padding-bottom: 12.5rem;
       text-align: center;
       margin: auto;
       position: static;
+    }
+    .subheader_languages {
+      letter-spacing: 0.125rem; 
+      text-align: center;
+      padding-top: 2rem;
+      margin: auto;
+    }
+    #languages{
+      display: inline-block;
     }
     
 }
@@ -839,6 +866,15 @@ padding-bottom: 12.5rem;
       text-align: center;
       margin: auto;
       position: static;
+    }
+    .subheader_languages {
+      letter-spacing: 0.125rem; 
+      text-align: center;
+      padding-top: 2rem;
+      margin: auto;
+    }
+    #languages{
+      display: inline-block;
     }
 }
 
