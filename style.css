@@ -642,6 +642,10 @@ padding-bottom: 12.5rem;
 .subheader_languages {
   font-size: 1rem;
   text-align: center;
+  top: auto;
+  bottom: auto;
+  right: auto;
+  left: auto;
 }
 #languages_table {
   text-align: auto;
@@ -733,6 +737,10 @@ li{
     .subheader_languages {
       font-size: 1rem;
       text-align: center;
+      top: auto;
+      bottom: auto;
+      right: auto;
+      left: auto;
     }
     #languages_table {
       text-align: auto;
@@ -825,6 +833,10 @@ li{
     .subheader_languages {
       font-size: 1rem;
       text-align: center;
+      top: auto;
+      bottom: auto;
+      right: auto;
+      left: auto;
     }
     #languages_table {
       text-align: auto;
@@ -917,6 +929,10 @@ li{
     .subheader_languages {
       font-size: 1rem;
       text-align: center;
+      top: auto;
+      bottom: auto;
+      right: auto;
+      left: auto;
     }
     #languages_table {
       text-align: auto;
