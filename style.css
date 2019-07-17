@@ -639,18 +639,13 @@ padding-bottom: 12.5rem;
   margin: auto;
   position: static;
 }
-#programming_languages {
-  position: relative;
-  height: auto;
-}
 .subheader_languages {
-  font-size: 2em;
+  font-size: 2rem;
   text-align: center;
   padding-top: auto;
   margin: auto;
 }
 #languages_table {
-  position: absolute;
   text-align: auto;
   top: auto;
   bottom: auto;
@@ -660,7 +655,7 @@ padding-bottom: 12.5rem;
   display: table;
 }
 ul#languages {
-  position: static;
+  position: absolute;
   list-style-type: none;
   padding-top: 1rem;
   padding-bottom: 1rem;
@@ -668,7 +663,6 @@ ul#languages {
 li{
   display: inline;
 }
-
 }
 
 /* Landscape */
@@ -735,18 +729,13 @@ li{
     margin: auto;
     position: static;
     } 
-    #programming_languages {
-      position: relative;
-      height: auto;
-    }
     .subheader_languages {
-      font-size: 2em;
+      font-size: 2rem;
       text-align: center;
       padding-top: auto;
       margin: auto;
     }
     #languages_table {
-      position: absolute;
       text-align: auto;
       top: auto;
       bottom: auto;
@@ -756,7 +745,7 @@ li{
       display: table;
     }
     ul#languages {
-      position: static;
+      position: absolute;
       list-style-type: none;
       padding-top: 1rem;
       padding-bottom: 1rem;
@@ -832,18 +821,13 @@ li{
       margin: auto;
       position: static;
     }
-    #programming_languages {
-      position: relative;
-      height: auto;
-    }
     .subheader_languages {
-      font-size: 2em;
+      font-size: 2rem;
       text-align: center;
       padding-top: auto;
       margin: auto;
     }
     #languages_table {
-      position: absolute;
       text-align: auto;
       top: auto;
       bottom: auto;
@@ -853,7 +837,7 @@ li{
       display: table;
     }
     ul#languages {
-      position: static;
+      position: absolute;
       list-style-type: none;
       padding-top: 1rem;
       padding-bottom: 1rem;
@@ -928,18 +912,13 @@ li{
       margin: auto;
       position: static;
     }
-    #programming_languages {
-      position: relative;
-      height: auto;
-    }
     .subheader_languages {
-      font-size: 2em;
+      font-size: 2rem;
       text-align: center;
       padding-top: auto;
       margin: auto;
     }
     #languages_table {
-      position: absolute;
       text-align: auto;
       top: auto;
       bottom: auto;
@@ -949,7 +928,7 @@ li{
       display: table;
     }
     ul#languages {
-      position: static;
+      position: absolute;
       list-style-type: none;
       padding-top: 1rem;
       padding-bottom: 1rem;
