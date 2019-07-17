@@ -640,13 +640,13 @@ padding-bottom: 12.5rem;
   position: static;
 }
 .subheader_languages {
-  font-size: 1em;
+  font-size: 2em;
   text-align: center;
   padding-top: auto;
   margin: auto;
 }
 #languages_table {
-  position: relative;
+  position: absolute;
   text-align: auto;
   top: auto;
   bottom: auto;
@@ -737,7 +737,7 @@ li{
       margin: auto;
     }
     #languages_table {
-      position: relative;
+      position: absolute;
       text-align: auto;
       top: auto;
       bottom: auto;
@@ -823,7 +823,7 @@ li{
       position: static;
     }
     #languages_table {
-      position: relative;
+      position: absolute;
       text-align: auto;
       top: auto;
       bottom: auto;
@@ -839,7 +839,8 @@ li{
     }
     li{
       display: inline;
-    } 
+    }
+    
 }
 
 /* Landscape */
@@ -914,7 +915,7 @@ li{
       margin: auto;
     }
     #languages_table {
-      position: relative;
+      position: absolute;
       text-align: auto;
       top: auto;
       bottom: auto;
@@ -931,6 +932,7 @@ li{
     li{
       display: inline;
     }
+    
 }
 
 /* Landscape */
