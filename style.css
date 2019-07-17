@@ -655,9 +655,10 @@ padding-bottom: 12.5rem;
   display: table;
 }
 ul#languages {
-  top: 40%;
+  top: 60%;
+  font-size: 1.5em;
   list-style-type: none;
-  padding-top: 1rem;
+  padding-top: 3rem;
   padding-bottom: 1rem;
 }
 li{
@@ -745,9 +746,10 @@ li{
       display: table;
     }
     ul#languages {
-      top: 40%;
+      top: 60%;
+      font-size: 1.5em;
       list-style-type: none;
-      padding-top: 1rem;
+      padding-top: 3rem;
       padding-bottom: 1rem;
     }
     li{
@@ -836,9 +838,10 @@ li{
       display: table;
     }
     ul#languages {
-      top: 40%;
+      top: 60%;
+      font-size: 1.5em;
       list-style-type: none;
-      padding-top: 1rem;
+      padding-top: 3rem;
       padding-bottom: 1rem;
     }
     li{
@@ -927,9 +930,10 @@ li{
       display: table;
     }
     ul#languages {
-      top: 40%;
+      top: 60%;
+      font-size: 1.5em;
       list-style-type: none;
-      padding-top: 1rem;
+      padding-top: 3rem;
       padding-bottom: 1rem;
     }
     li{
