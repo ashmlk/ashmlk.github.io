@@ -642,8 +642,6 @@ padding-bottom: 12.5rem;
 .subheader_languages {
   font-size: 1rem;
   text-align: center;
-  padding-top: auto;
-  margin: auto;
 }
 #languages_table {
   text-align: auto;
@@ -660,8 +658,10 @@ ul#languages {
   list-style-type: none;
   padding-top: 3rem;
   padding-bottom: 1rem;
+  margin: 0 auto;
 }
 li{
+  margin-left: 10px;
   float: left;
 }
 }
@@ -733,8 +733,6 @@ li{
     .subheader_languages {
       font-size: 1rem;
       text-align: center;
-      padding-top: auto;
-      margin: auto;
     }
     #languages_table {
       text-align: auto;
@@ -751,8 +749,10 @@ li{
       list-style-type: none;
       padding-top: 3rem;
       padding-bottom: 1rem;
+      margin: 0 auto;
     }
     li{
+      margin-left: 10px;
       float: left;
     }
 }
@@ -825,8 +825,6 @@ li{
     .subheader_languages {
       font-size: 1rem;
       text-align: center;
-      padding-top: auto;
-      margin: auto;
     }
     #languages_table {
       text-align: auto;
@@ -843,8 +841,10 @@ li{
       list-style-type: none;
       padding-top: 3rem;
       padding-bottom: 1rem;
+      margin: 0 auto;
     }
     li{
+      margin-left: 10px;
       float: left;
     }
 }
@@ -917,8 +917,6 @@ li{
     .subheader_languages {
       font-size: 1rem;
       text-align: center;
-      padding-top: auto;
-      margin: auto;
     }
     #languages_table {
       text-align: auto;
@@ -935,8 +933,10 @@ li{
       list-style-type: none;
       padding-top: 3rem;
       padding-bottom: 1rem;
+      margin: 0 auto;
     }
     li{
+      margin-left: 10px;
       float: left;
     }
 }
