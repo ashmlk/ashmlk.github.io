@@ -604,12 +604,14 @@ padding-bottom: 12.5rem;
   and (-webkit-min-device-pixel-ratio: 2) { 
     html {
       scroll-behavior: smooth;
-      -webkit-overflow-scrolling: touch;
-      overflow-x: hidden;
     }
     body {
       font-size: 10px;
       width: 100%;
+    }
+    #container{
+      -webkit-overflow-scrolling: touch;
+      overflow-x: hidden;
     }
     #menu{
       height: auto;
@@ -669,6 +671,7 @@ ul#languages {
   padding-top: 2rem;
   padding-bottom: 1rem;
   margin: 0 auto;
+  margin-bottom: 10px;
 }
 li{
   margin-left: 10px;
@@ -705,12 +708,14 @@ li{
   and (-webkit-min-device-pixel-ratio: 2) { 
     html {
       scroll-behavior: smooth;
-      -webkit-overflow-scrolling: touch;
-      overflow-x: hidden;
     }
     body {
       font-size: 10px;
       width: 100%;
+    }
+    #container{
+      -webkit-overflow-scrolling: touch;
+      overflow-x: hidden;
     }
     #menu{
       height: auto;
@@ -762,6 +767,7 @@ li{
       right:auto; 
       margin: 0 auto;
       display: table;
+      margin-bottom: 10px;
     }
     ul#languages {
       top: 60%;
@@ -806,12 +812,14 @@ li{
   and (-webkit-min-device-pixel-ratio: 2) {
     html {
       scroll-behavior: smooth;
-      -webkit-overflow-scrolling: touch;
-      overflow-x: hidden;
     } 
     body {
       font-size: 10px;
       width: 100%;
+    }
+    #container{
+      -webkit-overflow-scrolling: touch;
+      overflow-x: hidden;
     }
     #menu{
       height: auto;
@@ -872,6 +880,7 @@ li{
       padding-top: 2rem;
       padding-bottom: 1rem;
       margin: 0 auto;
+      margin-bottom: 10px;
     }
     li{
       margin-left: 10px;
@@ -908,12 +917,14 @@ li{
   and (-webkit-min-device-pixel-ratio: 2) { 
     html {
       scroll-behavior: smooth;
-      -webkit-overflow-scrolling: touch;
-      overflow-x: hidden;
     }
     body {
       font-size: 12px;
       width: 100%;
+    }
+    #container{
+      -webkit-overflow-scrolling: touch;
+      overflow-x: hidden;
     }
     #menu{
       height: auto;
@@ -974,6 +985,7 @@ li{
       padding-top: 2rem;
       padding-bottom: 1rem;
       margin: 0 auto;
+      margin-bottom: 10px;
     }
     li{
       margin-left: 10px;
