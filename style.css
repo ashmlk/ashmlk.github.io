@@ -642,10 +642,10 @@ padding-bottom: 12.5rem;
 .subheader_languages {
   letter-spacing: 0.125rem; 
   text-align: center;
-  padding-top: 2rem;
+  padding-top: 0.5rem;
   margin: auto;
 }
-#languages{
+ul{
   display: inline-block;
 }
 }
@@ -717,10 +717,10 @@ padding-bottom: 12.5rem;
     .subheader_languages {
       letter-spacing: 0.125rem; 
       text-align: center;
-      padding-top: 2rem;
+      padding-top: 0.5rem;
       margin: auto;
     }
-    #languages{
+    ul{
       display: inline-block;
     }    
 }
@@ -793,10 +793,10 @@ padding-bottom: 12.5rem;
     .subheader_languages {
       letter-spacing: 0.125rem; 
       text-align: center;
-      padding-top: 2rem;
+      padding-top: 0.5rem;
       margin: auto;
     }
-    #languages{
+    ul{
       display: inline-block;
     }
     
@@ -870,10 +870,10 @@ padding-bottom: 12.5rem;
     .subheader_languages {
       letter-spacing: 0.125rem; 
       text-align: center;
-      padding-top: 2rem;
+      padding-top: 0.5rem;
       margin: auto;
     }
-    #languages{
+    ul{
       display: inline-block;
     }
 }
