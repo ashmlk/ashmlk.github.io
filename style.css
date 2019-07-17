@@ -655,12 +655,13 @@ padding-bottom: 12.5rem;
   display: table;
 }
 ul{
-  list-style: none;
+  list-style-type: none;
    padding-top: 1rem;
 }
-ul li{
+li{
   display: inline;
 }
+
 }
 
 /* Landscape */
@@ -743,12 +744,13 @@ ul li{
       display: table;
     }
     ul{
-      list-style: none;
+      list-style-type: none;
        padding-top: 1rem;
     }
-    ul li{
+    li{
       display: inline;
     }
+    
 }
 
 /* Landscape */
@@ -827,10 +829,10 @@ ul li{
       display: table;
     }
     ul{
-      list-style: none;
+      list-style-type: none;
        padding-top: 1rem;
     }
-    ul li{
+    li{
       display: inline;
     }
     
@@ -917,10 +919,10 @@ ul li{
       display: table;
     }
     ul{
-      list-style: none;
+      list-style-type: none;
        padding-top: 1rem;
     }
-    ul li{
+    li{
       display: inline;
     }
 }
