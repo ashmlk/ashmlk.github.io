@@ -683,9 +683,6 @@ ul#languages {
   margin-left: 10px;
   float: left;
 }
-#sitemap{
-  background-position: left;
-}
 #sitemap_table {
   -webkit-column-count: 1;
   -moz-column-count: 1;
@@ -798,9 +795,6 @@ ul#languages {
     .p-languages{
       margin-left: 10px;
       float: left;
-    }
-    #sitemap{
-      background-position: left;
     }
     #sitemap_table {
       -webkit-column-count: 1;
@@ -915,9 +909,6 @@ ul#languages {
       margin-left: 10px;
       float: left;
     }
-    #sitemap{
-      background-position: left;
-    }
     #sitemap_table {
       -webkit-column-count: 1;
       -moz-column-count: 1;
@@ -1029,9 +1020,6 @@ ul#languages {
     .p-languages{
       margin-left: 10px;
       float: left;
-    }
-    #sitemap{
-      background-position: left;
     }
     #sitemap_table {
       -webkit-column-count: 1;
