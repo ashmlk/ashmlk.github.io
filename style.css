@@ -527,19 +527,20 @@ padding-top: 1.25rem;
 
 #sitemap,#error_page {
 background: url("Pictures/logo.png") no-repeat center fixed;
-background-size: auto;
-background-position-y: 18.75rem;
+background-size: 20%;
+background-position: center;
 overflow: auto;
-height: 45rem;
+height: auto;
 padding-bottom: 12.5rem;
 }
 
 #sitemap_table {
-  table-layout: fixed;
   width: 100%;
-  border: none;
   margin: auto;
-  
+  -webkit-column-count: 3;
+  -moz-column-count: 3;
+  column-count: 3;
+  list-style: none; 
 }
 
 .sitemap_header {
@@ -551,6 +552,7 @@ padding-bottom: 12.5rem;
   line-height: 1.5em;
   padding: 1.25rem;
   text-align: left;
+  
 }
 
 .link_sitemap {
@@ -564,8 +566,11 @@ padding-bottom: 12.5rem;
   text-decoration: none;
 }
 
-.error, .error_link{
+.transparent_word {
+  color: transparent;
+}
 
+.error, .error_link{
   font-family: 'Montserrat', serif;
   font-size: 3em;
   font-weight: 450;
@@ -674,10 +679,20 @@ ul#languages {
   margin-bottom: 10px;
   justify-content: center;
 }
-li{
+.p-languages{
   margin-left: 10px;
   float: left;
 }
+#sitemap{
+  background-position: left;
+}
+#sitemap_table {
+  -webkit-column-count: 1;
+  -moz-column-count: 1;
+  column-count: 1;
+  list-style: none; 
+}
+
 }
 
 /* Landscape */
@@ -780,10 +795,20 @@ li{
       margin: 0 auto;
       justify-content: center;
     }
-    li{
+    .p-languages{
       margin-left: 10px;
       float: left;
     }
+    #sitemap{
+      background-position: left;
+    }
+    #sitemap_table {
+      -webkit-column-count: 1;
+      -moz-column-count: 1;
+      column-count: 1;
+      list-style: none; 
+    }
+    
 }
 
 /* Landscape */
@@ -886,10 +911,20 @@ li{
       margin-bottom: 10px;
       justify-content: center;
     }
-    li{
+    .p-languages{
       margin-left: 10px;
       float: left;
     }
+    #sitemap{
+      background-position: left;
+    }
+    #sitemap_table {
+      -webkit-column-count: 1;
+      -moz-column-count: 1;
+      column-count: 1;
+      list-style: none; 
+    }
+    
 }
 
 /* Landscape */
@@ -992,10 +1027,20 @@ li{
       margin-bottom: 10px;
       justify-content: center;
     }
-    li{
+    .p-languages{
       margin-left: 10px;
       float: left;
     }
+    #sitemap{
+      background-position: left;
+    }
+    #sitemap_table {
+      -webkit-column-count: 1;
+      -moz-column-count: 1;
+      column-count: 1;
+      list-style: none; 
+    }
+    
 }
 
 /* Landscape */
