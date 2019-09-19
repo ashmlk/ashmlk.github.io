@@ -8,11 +8,13 @@ body, html {
   height: 100%;
   overflow-x: hidden;
   font-size: 16px;
+  scroll-behavior: smooth;
 }
 
 #container {
   min-height: 100vh;
   position: relative;
+  overflow: hidden;
 } 
 
 hr {
@@ -80,9 +82,8 @@ hr {
   -moz-background-size: cover;
   -webkit-background-size: cover;
   overflow: auto;
-  height: 45rem;
-  padding-bottom: 12.5rem; 
-  
+  height: 100%;
+  overflow: hidden;
 }
 .menu_link{
   position: absolute;
@@ -190,14 +191,16 @@ hr {
 /* CSS for menu.html */
 
 #menu {
-  background: url("Pictures/bg_2.jpg") no-repeat center fixed;
+  background: url("Pictures/bg_2.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
   background-size: cover;
   -o-background-size: cover;
   -moz-background-size: cover;
   -webkit-background-size: cover;
   overflow: auto;
-  height: 45rem;
-  padding-bottom: 12.5rem;
+  height: 100%;
+  overflow: hidden;
 }
 
 #q {
