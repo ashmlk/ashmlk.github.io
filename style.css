@@ -746,10 +746,7 @@ ul#languages {
       font-size: 10px;
       width: 100%;
     }
- 
-    #menu{
-      height: auto;
-    }
+
     .description {
       padding-left: 8%;
       padding-right: 8%;
@@ -859,9 +856,6 @@ ul#languages {
       font-size: 10px;
       width: 100%;
     }
-    #menu{
-      height: auto;
-    }
     .description {
       padding-left: 8%;
       padding-right: 8%;
@@ -970,9 +964,6 @@ ul#languages {
     body {
       font-size: 14px;
       width: 100%;
-    }
-    #menu{
-      height: auto;
     }
     .description {
       padding-left: 8%;
@@ -1084,9 +1075,6 @@ and (-webkit-min-device-pixel-ratio: 3) {
     body {
       font-size: 14px;
       width: 100%;
-    }
-    #menu{
-      height: auto;
     }
     .description {
       padding-left: 8%;
