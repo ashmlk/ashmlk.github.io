@@ -76,14 +76,16 @@ hr {
 /* CSS for index.html */
 
 #index {
-  background: url("Pictures/bg.jpg") no-repeat center fixed;
+  background: url("Pictures/bg.jpg");
+  background-repeat:  no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
   background-size: cover;
   -o-background-size: cover;
   -moz-background-size: cover;
   -webkit-background-size: cover;
-  overflow: auto;
   height: 100%;
-  overflow: hidden;
+  background-color: #999;
 }
 .menu_link{
   position: absolute;
@@ -192,15 +194,15 @@ hr {
 
 #menu {
   background: url("Pictures/bg_2.jpg");
-  background-position: center;
-  background-repeat: no-repeat;
+  background-repeat:  no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
   background-size: cover;
   -o-background-size: cover;
   -moz-background-size: cover;
   -webkit-background-size: cover;
-  overflow: auto;
   height: 100%;
-  overflow: hidden;
+  background-color: #999
 }
 
 #q {
@@ -509,6 +511,7 @@ padding-top: 1.25rem;
   background-color:rgb(250, 249, 249) ;
   margin: 2.5rem 5%;
   padding: 1.875rem;
+  padding-bottom: 1.875rem;
   justify-content: left;
   vertical-align: center;
 }
@@ -520,6 +523,7 @@ padding-top: 1.25rem;
   line-height: 1.5em;
   color: rgb(70, 71, 73);
   padding-left: 15%;
+  padding-bottom: 5%;
   padding-right: 15%;
 }
 
