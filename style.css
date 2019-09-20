@@ -444,7 +444,7 @@ padding-top: 1.25rem;
   table-layout: fixed;
   -webkit-column-count: 2;
   -moz-column-count: 2;
-  -ms-coumn-count: 2;
+  -ms-column-count: 2;
   column-count: 2;
   text-align: center;
   list-style-type: none;
