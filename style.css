@@ -668,6 +668,12 @@ padding-bottom: 12.5rem;
   margin: auto;
   position: static;
 }
+.projects_table {
+  -webkit-column-count: 1;
+  -moz-column-count: 1;
+  -ms-column-count: 1;
+  column-count: 1;
+}
 #programming_languages{
   justify-content: center;
 }
@@ -778,6 +784,12 @@ ul#languages {
     margin: auto;
     position: static;
     } 
+    .projects_table {
+      -webkit-column-count: 1;
+      -moz-column-count: 1;
+      -ms-column-count: 1;
+      column-count: 1;
+    }
     #programming_languages{
       justify-content: center;
     }
@@ -888,6 +900,12 @@ ul#languages {
       margin: auto;
       position: static;
     }
+    .projects_table {
+      -webkit-column-count: 1;
+      -moz-column-count: 1;
+      -ms-column-count: 1;
+      column-count: 1;
+    }
     #programming_languages{
       justify-content: center;
     }
@@ -996,6 +1014,12 @@ ul#languages {
       text-align: center;
       margin: auto;
       position: static;
+    }
+    .projects_table {
+      -webkit-column-count: 1;
+      -moz-column-count: 1;
+      -ms-column-count: 1;
+      column-count: 1;
     }
     #programming_languages{
       justify-content: center;
@@ -1107,6 +1131,12 @@ and (-webkit-min-device-pixel-ratio: 3)
       text-align: center;
       margin: auto;
       position: static;
+    }
+    .projects_table {
+      -webkit-column-count: 1;
+      -moz-column-count: 1;
+      -ms-column-count: 1;
+      column-count: 1;
     }
     #programming_languages{
       justify-content: center;
