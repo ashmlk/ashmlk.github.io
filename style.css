@@ -354,7 +354,17 @@ hr {
 #programming_languages {
 position: relative;
 width: 80%;
-height: 50%;
+height: auto;
+margin: auto;
+margin-top: 2.5rem;
+background: linear-gradient(90deg,rgb(248, 247, 247), rgb(255, 255, 255));
+padding-top: 1.25rem;
+}
+
+#programming_skills_d {
+position: relative;
+width: 80%;
+height: auto;
 margin: auto;
 margin-top: 2.5rem;
 background: linear-gradient(90deg,rgb(248, 247, 247), rgb(255, 255, 255));
@@ -373,6 +383,25 @@ padding-top: 1.25rem;
   bottom: 20%;
   right: 70%;
   left: 5%;
+  margin: auto;
+}
+
+.subheader_languages_skills {
+  position: absolute;
+  font-family: 'Raleway', serif;
+  text-transform: uppercase;
+  color: rgb(34, 34, 34);
+  font-size: 3em;
+  font-weight: 450;
+  letter-spacing: 0.125rem; 
+  padding-bottom: 10%;
+  left: 5%;
+  margin: auto;
+}
+
+.skills_description{
+  position: absolute;
+  left: 55%;   
   margin: auto;
 }
 
@@ -413,6 +442,7 @@ padding-top: 1.25rem;
   margin:  3.125rem;
   padding-top: 1.25rem;
 }
+
 .subheader a {
   text-decoration: none;
   color: rgb(1, 4, 7);
