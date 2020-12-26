@@ -1,0 +1,89 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+.main-body {
+    background: rgb(238,238,238);
+    background-image: url("../images/bg-main.png");
+    background-image:radial-gradient(circle, rgba(236, 236, 236, 0.801) 0%, rgba(247, 247, 247, 0.541) 100%), url("../images/bg-main.png");
+    -webkit-background-size: 100%;
+    -moz-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: 100%;
+    height: 100%;
+}
+
+.social-icons #links .description {
+    display:none;
+    position:absolute;
+    border:1px solid rgb(170, 170, 170);
+    width:400px;
+    height:400px;
+}
+
+.description-name-title {
+    margin-top: 10rem;
+}
+
+.description-name-title .full-name {
+    font-size: 1.1rem;
+}
+
+.description-name-title .explanation {
+    margin-top: 13px;
+    font-size: 2rem;
+    font-weight: 800;
+}
+
+.description-name-title  .explainer-text {
+font-size: 0.9;
+margin-top: 10px;
+}
+
+.social-icons {
+    margin-top: 15px;
+}
+
+.social-icons #links a {
+    margin-right: 10px;
+    background-color: rgba(255, 255, 255, 0) !important;
+    color: rgba(0, 0, 0, 0.884) !important;
+    text-decoration:  none;
+}
+
+.social-icons #links a:hover {
+    opacity: 0.6;
+}
+
+.container-fluid.nav-container {
+    padding-left:4rem;
+    padding-right:4rem;
+    background-color: rgba(236, 236, 236, 0.596);
+}
+
+.page-header {
+    width: 100%;
+    text-align: center;
+    font-size:3rem;
+    font-weight: 500;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+    color: rgb(12, 12, 12);
+}
+.card a {
+    text-decoration: none;
+}
+#projectsBody .card {
+    background-color: rgba(247, 247, 247, 0.87);
+    border-color: rgba(255, 255, 255, 0.966);
+}
+.project-objects .card-img-top{
+    max-height: 300px !important;
+}
+
+@media only screen and (max-width: 800px) {
+    .container-fluid.nav-container {
+        padding-left:0.1rem;
+        padding-right:0.1rem;
+    }
+  }
+  
